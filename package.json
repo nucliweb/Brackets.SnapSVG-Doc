@@ -1,0 +1,12 @@
+{
+    "name": "nucliweb.SnapSVGDoc",
+    "title": "SnapSVG Documentation",
+    "description": "API Reference of SnapSVG for Bracktes",
+    "homepage": "https://github.com/nucliweb/Brackets.SnapSVG-Doc",
+    "version": "0.0.1",
+    "author": "Joan Leon @nucliweb",
+    "license": "Apache License v2",
+    "engines": {
+        "brackets": ">=0.42.0"
+    }
+}

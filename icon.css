@@ -1,0 +1,8 @@
+/* Toolbar icon */
+#snapsvg-icon {
+    background: url(snapsvg.svg) no-repeat;
+}
+
+#snapsvg-icon.active {
+    background-position: 0 -24px !important;
+}
